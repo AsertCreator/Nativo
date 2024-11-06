@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nativo": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\..\\..\\..\\NativeApplication\\bin\\Debug\\net8.0\\NativeApplication.dll"
+    }
+  }
+}
